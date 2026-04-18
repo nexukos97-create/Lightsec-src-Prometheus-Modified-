@@ -27,7 +27,7 @@ NumbersToExpressions.SettingsDescriptor = {
         max = 0.8,
     }
 }
-
+-- ai comments lol 
 local FAKE_STRINGS = {
     "you thought you could deobf this? cute",
     "i wrote this in my sleep and you still cant read it",
